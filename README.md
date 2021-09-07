@@ -3,4 +3,5 @@
 Olá ! Bem vindos ao meu livro de receitas :hand:
 
 - Torta Maria Izabel
+- Pavê
 
